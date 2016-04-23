@@ -1,0 +1,51 @@
+/* Copy and paste the style rules we made in photos.html.
+  In the <head> look for the <style> tags. Copy all the code between the opening and closing
+  <style> tags and move them here to this external stylesheet */
+
+
+
+/* ˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅ New style rules we'll be adding today ˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅ */
+
+body {
+/* Change the font-family to Helvetica, Arial, sans-serif */
+}
+
+h1 {
+  /* Change the font-size of the h1 to 35px */
+  /* Change the color of the h1 to darkslategray */
+}
+
+h2 {
+  /* Change the font-size of the h2 to 30px */
+  /* Change the color of the h2 to darkslategray*/
+}
+
+h3 {
+  /* Change the font-size of the h3 to 22px */
+}
+
+section {
+  /*
+    Add a border-bottom to the section elements ...
+      It should have a border-bottom-width of 1px
+      The border-bottom-style should be dashed
+      The border-bottom-color should be lightgray
+  */
+}
+
+.gallery section {
+  /* What side-effects do you notice? There's a border on the gallery page as well :o
+   We don't want that! Let's get rid of it from the gallery's section*/
+
+}
+
+/*
+  Lastly,
+  Add a class of "home" to your <main> element in the index.html page
+  change its background-color to aliceblue.
+
+  Try selecting the class yourself.
+  Hint: Refer to the example above to determine how we target a class!
+  Hint x2: Classes always start with a dot - (ex .gallery)
+  Hint x3: We want to select the home class
+*/

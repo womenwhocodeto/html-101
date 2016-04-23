@@ -1,0 +1,32 @@
+article {
+  text-align: center;
+}
+
+nav ul {
+  padding-left: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+figure img {
+  width: 100%;
+  height: auto;
+}
+
+main {
+  width: 750px;
+  background-color: tomato;
+  margin: auto;
+  overflow: hidden;
+}
+
+figure {
+  float: left;
+  width: 250px;
+}
+
+section {
+  overflow: hidden;
+}

@@ -17,9 +17,14 @@ figure img {
 
 main {
   width: 750px;
-  background-color: tomato;
+  background-color: aliceblue;
   margin: auto;
   overflow: hidden;
+  padding: 20px 40px;
+}
+
+.gallery {
+  background-color: tomato;
 }
 
 figure {
@@ -29,4 +34,5 @@ figure {
 
 section {
   overflow: hidden;
+  margin: 20px 0;
 }
